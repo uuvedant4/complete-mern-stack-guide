@@ -1,0 +1,20 @@
+{
+  "name": "lesson_4",
+  "version": "1.0.0",
+  "description": "Lesson 4 of node.js course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Vedant Yetekar",
+  "license": "ISC",
+  "dependencies": {
+    "data-fns": "^0.1.8",
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  }
+}
