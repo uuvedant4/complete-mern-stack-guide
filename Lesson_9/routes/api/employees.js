@@ -28,5 +28,3 @@ router.route("/:id").get((req, res) => {
 });
 
 module.exports = router;
-
-// 3:23:00
