@@ -1,8 +1,0 @@
-20230309	18:20:38	8e5a60ac-e081-4b56-90e0-5f370b7ecf7d	TypeError: res.json(...).put is not a function
-20230309	18:23:51	afdac264-7806-4798-8feb-0725393c5d03	TypeError: res.json(...).put is not a function
-20230309	18:30:13	3daaab37-4f1a-4670-b861-1045b4aae317	SyntaxError: Unexpected string in JSON at position 32
-20230311	17:20:19	c982c253-7887-4928-943a-88b179fe3aa9	SyntaxError: Unexpected token , in JSON at position 60
-20230311	17:54:24	66edffb8-7699-4624-a82d-9fdb71d93a39	Error: ENOENT: no such file or directory, stat 'C:\Users\Vedan\Desktop\full-stack-dev\Lesson_11\routes\views\index.html'
-20230311	17:54:38	71973662-e190-469b-8950-307d04eaf478	Error: ENOENT: no such file or directory, stat 'C:\Users\Vedan\Desktop\full-stack-dev\Lesson_11\routes\views\index.html'
-20230311	17:55:34	8dfba5c0-7afc-40ed-b267-572f52bd3eab	Error: ENOENT: no such file or directory, stat 'C:\Users\Vedan\Desktop\full-stack-dev\Lesson_11\routes\api\views\index.html'
-20230311	17:55:52	654f8e87-ebd3-4404-a7a1-0bab739ecee7	Error: ENOENT: no such file or directory, stat 'C:\Users\Vedan\Desktop\full-stack-dev\Lesson_11\routes\...\views\index.html'
